@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-TempoGeist is an ambitious project under development, aiming to redefine the integration of AI/ML tools within the realm of real-time musical collaboration. Our vision is to create a predictive and generative AI/ML tool that excels in real-time MIDI note prediction and streaming latency remediation, harnessing the power of MIDI 2.0's enhanced capabilities.
+TempoGeist is an ambitious project under development, aiming to redefine the integration of AI/ML tools within the realm of real-time musical collaboration. Our vision is to create a predictive and generative AI/ML tool that excels in real-time MIDI note prediction and streaming latency remediation, harnessing the power of MIDI 2.0's enhanced capabilities. The primary goal is to enhance real time collaboration, performance and mastering by reducing latency and other interupts which may occur during a live stream. 
+
+### Our mission is to create both AI and non AI-based tools that enhance and inspire the creativity within all of us. 
 
 ## Project Goals
 
